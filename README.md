@@ -2,7 +2,7 @@
 
 ## March 18
 
--- ______ : 'DataFrame' object has no attribute 'str’
+-- **PR #19** : 'DataFrame' object has no attribute 'str’ (Doc)
 
 -- ______ : File not found exception
 
