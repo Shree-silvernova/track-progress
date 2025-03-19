@@ -1,5 +1,9 @@
 # track-progress
 
+## March 19
+
+[PRO-88] Replaces / with _ and assumes the file type is .msg if no extension is present #21 (Doc)
+
 ## March 18
 
 -- **PR #19** : 'DataFrame' object has no attribute 'str’ (Doc)
@@ -12,9 +16,9 @@
 
 -- **PR #17** : file process error: file format not supported (Doc)
 
--- ______ : file process error: float division by zero _: Unable to reproduce added screenshot_
+-- Closed : file process error: float division by zero _: Unable to reproduce added screenshot_
 
--- ______ : .zip files not supported _: Unable to reproduce added screenshot_
+-- Closed : .zip files not supported _: Unable to reproduce added screenshot_
 
 -- ______ : Error in prompt execution
 
